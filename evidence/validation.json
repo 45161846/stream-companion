@@ -1,0 +1,18 @@
+{
+  "extension": "output/extension/stream-companion-0.1.0-chrome.zip",
+  "sha256": "b1d4abe829eb2ede21ae5a314dd8b69c7d6da7a5c8d5eed1963026d0075009cd",
+  "checks": {
+    "typescript": "passed",
+    "unit_and_component_tests": 34,
+    "production_build": "passed",
+    "archive_integrity": "passed",
+    "ui_fixture": "passed",
+    "real_twitch_timestamp_link": "passed",
+    "chrome_installation_and_live_dom": "not_verified"
+  },
+  "video": "https://www.twitch.tv/videos/2898815300",
+  "prepared_range_seconds": [
+    0,
+    1800
+  ]
+}
